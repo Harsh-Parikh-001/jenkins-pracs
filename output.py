@@ -2,7 +2,7 @@ print("hello");
 
 print("Enter the radius")
 
-r = int(input())
+r = float(input())
 
 area = (22/7) * r * r
 
