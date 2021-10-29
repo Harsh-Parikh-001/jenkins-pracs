@@ -2,8 +2,8 @@ print("hello");
 
 print("Enter the radius")
 
-r = (input())
+r = int(input())
 
-# area = (22/7) * r * r
+area = (22/7) * r * r
 
-print("Area = ",r)
+print("Area = ",area)
